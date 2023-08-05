@@ -7,13 +7,19 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 
 <p align="center"><img src="https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
 
-## :warning: TechStack/framework used
+## Images
 
-- [OpenCV](https://opencv.org/)
-- [Caffe-based face detector](https://caffe.berkeleyvision.org/)
-- [Keras](https://keras.io/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [MobileNetV2](https://arxiv.org/abs/1801.04381)
+<p align="center">
+  <img src="Readme_images/1.PNG">
+</p>
+<p align="center">Upload Images</p>
+
+<p align="center">
+  <img src="Readme_images/2.PNG">
+</p>
+<p align="center">Results</p>
+
+---
 
 ## :star: Features
 Our face mask detector doesn't use any morphed masked images dataset and the model is accurate. Owing to the use of MobileNetV2 architecture, it is computationally efficient, thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
@@ -96,21 +102,16 @@ command
 ```
 $ streamlit run app.py 
 ```
-## Images
+TechStack/framework used
 
-<p align="center">
-  <img src="Readme_images/1.PNG">
-</p>
-<p align="center">Upload Images</p>
+- [OpenCV](https://opencv.org/)
+- [Caffe-based face detector](https://caffe.berkeleyvision.org/)
+- [Keras](https://keras.io/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
-<p align="center">
-  <img src="Readme_images/2.PNG">
-</p>
-<p align="center">Results</p>
 
----
-
-## :eyes: Code of Conduct
+Code of Conduct
 
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
