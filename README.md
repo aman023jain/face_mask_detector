@@ -9,15 +9,6 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 ## PPT and Project Report sharing costs ₹1000 ($15)
 
 # 🌟 [Purchase on Gumroad](https://gum.co/GetFaceMask)
- 
-## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
-
-:computer: [Dev Link](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
-
-[![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://face-mask--detection-app.herokuapp.com/)
-
-
 
 <p align="center"><img src="https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
 
