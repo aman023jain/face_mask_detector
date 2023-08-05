@@ -37,7 +37,7 @@ The images used were real images of faces wearing masks. The images were collect
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
 
-## 🚀&nbsp; Installation
+Installation
 1. Clone the repo
 ```
 $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
@@ -61,7 +61,7 @@ $ source test/bin/activate
 $ pip3 install -r requirements.txt
 ```
 
-## :bulb: Working
+Working
 
 1. Open terminal. Go into the cloned project directory and type the following command:
 ```
@@ -77,7 +77,7 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 ```
 $ python3 detect_mask_video.py 
 ```
-## :key: Results
+Results
 
 #### Our model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
 
@@ -113,10 +113,4 @@ $ streamlit run app.py
 ## :eyes: Code of Conduct
 
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
-
-## :heart: Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
-
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
 
